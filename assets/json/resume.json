@@ -1,48 +1,30 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Nguyễn Nhựt",
+    "label": "Front End Developer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ngnhut07051998@gmail.com",
+    "phone": "",
+    "url": "https://justonelife.github.io",
+    "summary": "Motivated front-end engineer with over 4 years of experience building scalable web applications using Angular. I aim to contribute to impactful solutions that improve user experience and business performance.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "Tran Van Dang, Ward 11, District 3",
+      "city": "Ho Chi Minh",
+      "countryCode": "VN"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Front End Developer",
+      "position": "Kromlab",
+      "url": "https://theplug.xomad.com/",
+      "startDate": "2022-03",
+      "highlights": [
+        "Migrated legacy system from Angular 9 to 15, improved maintainability",
+        "Built reusable components to reduce duplication across teams",
+        "Designed tools that supported internal operational efficiency",
+        "Applied component-based architecture & lazy loading for performance"
+      ]
     }
   ],
   "education": [
@@ -55,7 +37,9 @@
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": [
+        "Theory of Relativity"
+      ]
     }
   ],
   "awards": [
@@ -191,7 +175,10 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "highlights": [
+        "Quantum Teleportation",
+        "Quantum Cryptography"
+      ],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
